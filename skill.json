@@ -1,0 +1,16 @@
+{
+  "name": "genpark-multi-agent-round-robin-turn-orchestrator-skill",
+  "version": "1.0.0",
+  "description": "Multi-agent conversational turn orchestrator, round-robin handoff tokens, and speaker selection router.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "autogen",
+    "crewai",
+    "turn-taking",
+    "orchestration",
+    "genpark",
+    "mcp"
+  ]
+}
